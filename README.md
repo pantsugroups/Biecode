@@ -23,7 +23,7 @@ bie的丢人实录
 
 ## 丢人实录
 
-[pBot](https://github.com/pantsugroups/pBot)
+### [pBot](https://github.com/pantsugroups/pBot)
 
  commit: dca0c581bae1f73d649a1da71295ad38f49112d1
 
@@ -34,6 +34,13 @@ bie的丢人实录
 from * import config
 #....anothercode
  ```
+### Bie盘
+
+ commit: fc80e75e073f08e10bc5a4f85ee8e1a92d860ce4
+
+![biepan](https://github.com/pantsugroups/Biecode/blob/master/pic/biepan.jpg)
+
+
 
 
 
